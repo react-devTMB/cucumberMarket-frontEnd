@@ -1,0 +1,43 @@
+.auth {
+  text-align: center;
+  background-color: #ffffff;
+  height: 100%;
+}
+
+.auth .fa-search {
+  position: absolute;
+  top: 30px;
+  opacity: 0.3;
+}
+
+.auth input {
+  margin: 20px 0 25px;
+  padding: 10px 10px 10px 25px;
+  width: 90%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #d2d3d5;
+  caret-color: #cbe62f;
+}
+
+.auth input::placeholder {
+  color: #d2d3d5;
+  font-weight: bold;
+}
+
+.auth .btn {
+  background-color: #cbe62f;
+  color: #fff;
+  font-size: 0.825rem;
+  font-weight: bold;
+  width: 90%;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+}
+
+.auth img {
+  margin-top: 100px;
+  width: 85%;
+}
