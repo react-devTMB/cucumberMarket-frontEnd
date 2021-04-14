@@ -16,12 +16,12 @@ module.exports = {
     'no-underscore-dangle': ['off'],
     'no-param-reassign': ['off'],
     // eslint-disable-next-line global-require
-    'linebreak-style': ['error'],
-    "arrow-body-style": 0,
-    quotes: ['off', 'single'],
-    indent: ["warn", 2, { ignoredNodes: ["JSXElement"] }],
-    "no-multiple-empty-lines": [2, { max: 1, maxEOF: 1 }],
-    "jsx-a11y/label-has-associated-control": "off",
+    'linebreak-style': 0,
+    'arrow-body-style': 0,
+    'quotes': ['off', 'single'],
+    'indent': ['warn', 2, { ignoredNodes: ['JSXElement'] }],
+    'no-multiple-empty-lines': [2, { max: 1, maxEOF: 1 }],
+    'jsx-a11y/label-has-associated-control': 'off',
     'max-len': 'off',
   },
   settings: {

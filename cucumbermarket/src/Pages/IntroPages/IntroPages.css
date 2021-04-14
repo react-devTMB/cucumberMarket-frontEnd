@@ -1,0 +1,37 @@
+.intro {
+  text-align: center;
+  background-color: #f2f3f7;
+  height: 100%;
+}
+
+.name {
+  height: 50px;
+  color: #cbe62f;
+  font-size: 2.4rem;
+  font-weight: bold;
+  padding-top: 100px;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.description {
+  color: #616267;
+  opacity: 0.8;
+  margin-bottom: 8px;
+}
+
+.btn {
+  background-color: #cbe62f;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 30px;
+  width: 90%;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+}
